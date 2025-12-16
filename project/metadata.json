@@ -1,0 +1,5 @@
+{
+  "name": "QuickStudy AI",
+  "description": "An intelligent study companion that generates clear, concise, and easy-to-understand study notes on any topic using the Gemini API.",
+  "requestFramePermissions": []
+}
